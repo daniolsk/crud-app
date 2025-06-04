@@ -3,7 +3,7 @@ import type { Campaign, ApiResponse } from './types/Campaign';
 import toast, { Toaster } from 'react-hot-toast';
 import './styles/main.css';
 
-const API_URL = 'https://crud-app-backend-ecru.vercel.app';
+const API_URL = 'https://crud-app-backend-nine.vercel.app/';
 const CITIES = ['Krakow', 'Warszawa', 'Gdansk', 'Wroclaw', 'Katowice'];
 
 function App() {
