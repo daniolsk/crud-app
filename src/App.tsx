@@ -157,7 +157,7 @@ function App() {
 		<div className='container'>
 			<header className='header'>
 				<h1>Campaign Management</h1>
-				<div className='balance'>Balance: {balance} Emeralds</div>
+				<div className='balance'>Emerald account funds: {balance}</div>
 			</header>
 
 			<div className='main'>
